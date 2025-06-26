@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+BOT_TOKEN = '7725259678:AAHhV82j6RJgWkI6I6C0F4JeI9RzSbMozDQ'
 
 KRW_TO_USD = 0.00074
 USD_TO_RUB = 94
